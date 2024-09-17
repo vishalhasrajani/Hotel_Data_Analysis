@@ -1,4 +1,4 @@
-<h1>Answered these interesting questions : </h1>
+<h1>Key Insights : </h1>
 
 <h2>
 •	Generated Key Insights such as occupancy rate, revenue per city, revenue month on month basis and revenue realized per booking platform so that AtliQ Hotels can realize key factors affecting their business. 
